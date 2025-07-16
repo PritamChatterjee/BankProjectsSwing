@@ -1,0 +1,23 @@
+2025-07-15 06:36:40: Deposited $1,000.00 successfully
+2025-07-15 06:36:52: Withdrawn $200.00 successfully
+2025-07-15 06:36:59: Loan of $1,000.00 approved. EMI: $86.99/month
+2025-07-15 06:37:12: Please pay exact EMI amount: $86.99
+2025-07-15 06:37:51: Bank statement printed successfully
+2025-07-15 06:37:56: Printing failed: null
+2025-07-16 07:07:10: Invalid deposit amount format!
+2025-07-16 07:07:11: Invalid deposit amount format!
+2025-07-16 07:07:11: Invalid deposit amount format!
+2025-07-16 07:07:11: Invalid deposit amount format!
+2025-07-16 07:13:22: Personal Loan of $10.00 approved. EMI: $0.88/month
+2025-07-16 07:16:37: Existing loan must be cleared first!
+2025-07-16 07:19:07: Personal Loan of $100.00 approved. EMI: $8.79/month
+2025-07-16 07:25:49: Car Loan of $55.00 approved. EMI: $1.72/month
+2025-07-16 07:25:58: Please pay exact EMI amount: $1.72
+2025-07-16 07:26:09: Existing loan must be cleared first!
+2025-07-16 07:26:13: Please pay exact EMI amount: $1.72
+2025-07-16 07:27:14: Existing loan must be cleared first!
+2025-07-16 08:14:39: Deposited $10,000.00 successfully
+2025-07-16 08:14:44: Withdrawn $2,000.00 successfully
+2025-07-16 08:14:54: Home Loan of $100.00 approved. EMI: $1.98/month
+2025-07-16 08:14:56: Please pay exact EMI amount: $1.98
+2025-07-16 08:14:59: Interest of $30.00 credited successfully
