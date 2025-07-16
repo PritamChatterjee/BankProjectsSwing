@@ -8,6 +8,7 @@ package advancedbank;
  * Multi-threading for Operations
  * Transaction Logging in a separate file
  * Separate options for Personal, Home and Car Loans
+ * View in Full Screen Mode
  */
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
